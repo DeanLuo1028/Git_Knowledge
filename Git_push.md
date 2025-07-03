@@ -1,6 +1,6 @@
 # **git push 是什麼？**
 
-`git push` 是用來\*\*把你本地的 Git commit 推送到遠端儲存庫（例如 GitHub）\*\*的指令。
+`git push` 是用來把你本地的 Git commit 推送到遠端儲存庫（例如 GitHub）的指令。
 
 當你在本地寫完程式並 `commit` 之後，這些更動只存在你的電腦。
 你需要用 `git push` 把它們送到 GitHub 等平台，別人才能看到或合作。
